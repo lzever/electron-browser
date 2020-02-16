@@ -1,0 +1,18 @@
+/node_modules
+/v3Usb/.svn
+
+/dist
+/build/win-ia32-unpacked
+/build/Lovense Browser Setup 1.1.0.exe
+/build/electron-builder.yaml
+/build/Lovense Browser Setup 1.1.0.exe.blockmap
+/.svn
+/static/extensions/v3Usb/.svn
+/static/bookmark
+/static/recentlywatch
+/static/avatar
+/static/avatarbook
+/static/bookmark
+/static/imgs
+/static/recentlywatch
+/extensions
