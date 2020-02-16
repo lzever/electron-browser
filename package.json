@@ -196,7 +196,7 @@
     "vue-template-compiler": "^2.5.11",
     "vuelidate": "^0.7.4",
     "webpack": "^3.5.2",
-    "webpack-dev-server": "^2.7.1",
+    "webpack-dev-server": "^3.1.11",
     "webpack-hot-middleware": "^2.18.2",
     "webpack-merge": "^4.1.0",
     "ws": "^3.0.0"
