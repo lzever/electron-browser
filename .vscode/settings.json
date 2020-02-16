@@ -1,0 +1,50 @@
+{
+  "vsicons.presets.angular": false,
+  "eslint.autoFixOnSave": true,
+  "eslint.options": {
+    "extensions": [
+      ".js",
+      ".vue"
+    ]
+  },
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "vue",
+    "vue-html",
+    "html"
+  ],
+  "javascript.validate.enable": false,
+  "css.validate": false,
+  "scss.validate": false,
+  "search.exclude": {
+    "**/node_modules": true,
+    "**/bower_components": true
+  },
+  "emmet.syntaxProfiles": {
+    "javascript": "jsx",
+    "vue": "html",
+    "vue-html": "html"
+  },
+  "editor.tabSize": 2,
+  "files.associations": {
+    "*.vue": "html"
+  },
+  "extensions.autoUpdate": true,
+  "editor.cursorBlinking": "smooth",
+  "editor.formatOnType": false,
+  "editor.formatOnSave": true,
+  "editor.renderWhitespace": "all",
+  "editor.renderControlCharacters": true,
+  "editor.renderIndentGuides": true,
+  "editor.dragAndDrop": true,
+  "editor.minimap.enabled": true,
+  "typescript.format.insertSpaceAfterOpeningAndBeforeClosingJsxExpressionBraces": true,
+  "svn.delete.ignoredRulesForDeletedFiles": [
+    "build\\electron-builder.yaml",
+    "src\\main\\spider\\listeners-guest.js",
+    "static\\preload-spider-get-popular.js",
+    "static\\preload-spider-get-viewsnum.js"
+  ],
+  "git.ignoreLimitWarning": true
+}
